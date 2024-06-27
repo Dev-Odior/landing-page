@@ -41,10 +41,10 @@ import {
   yourlogo,
 } from "../assets";
 
-import cardOne from "../assets/benefits/card-1.svg";
-import cardTwo from "../assets/benefits/card-2.svg";
-import cardThree from "../assets/benefits/card-3.svg";
-import cardFour from "../assets/benefits/card-4.svg";
+import cardOne from "../assets/benefits/cardOne.svg";
+import cardTwo from "../assets/benefits/cardTwo.svg";
+import cardThree from "../assets/benefits/cardThree.svg";
+import cardFour from "../assets/benefits/cardFour.svg";
 
 export const navigation = [
   {
