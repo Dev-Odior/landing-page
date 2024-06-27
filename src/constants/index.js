@@ -41,6 +41,11 @@ import {
   yourlogo,
 } from "../assets";
 
+import cardOne from "../assets/benefits/card-1.svg";
+import cardTwo from "../assets/benefits/card-2.svg";
+import cardThree from "../assets/benefits/card-3.svg";
+import cardFour from "../assets/benefits/card-4.svg";
+
 export const navigation = [
   {
     id: "0",
@@ -260,7 +265,7 @@ export const benefits = [
     id: "0",
     title: "Standing Out Of The Crowd",
     text: "Thousands of professionals are competing to be noticed. Personal Branding distinguishes you.",
-    backgroundUrl: benefitCard1,
+    backgroundUrl: cardOne,
     iconUrl: benefitIcon1,
     imageUrl: benefitImage2,
   },
@@ -268,7 +273,7 @@ export const benefits = [
     id: "1",
     title: "Build Professional Credibility",
     text: "Taking the time to polish the representation of yourself builds trust and credibility to prospects",
-    backgroundUrl: benefitCard2,
+    backgroundUrl: cardTwo,
     iconUrl: benefitIcon3,
     imageUrl: benefitImage2,
   },
@@ -276,7 +281,7 @@ export const benefits = [
     id: "2",
     title: "Boost Your Online Presence",
     text: "With a portfolio website, your reach is extended past the confines of social platform, leveraging google search",
-    backgroundUrl: benefitCard3,
+    backgroundUrl: cardThree,
     iconUrl: benefitIcon2,
     imageUrl: benefitImage2,
     light: true,
@@ -285,7 +290,7 @@ export const benefits = [
     id: "3",
     title: "Increase Job Opportunities",
     text: "Branding improves your chances of getting noticed by recruiters and landing your dream job.",
-    backgroundUrl: benefitCard4,
+    backgroundUrl: cardFour,
     iconUrl: benefitIcon4,
     imageUrl: benefitImage2,
     light: true,
